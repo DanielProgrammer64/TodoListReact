@@ -1,8 +1,17 @@
-![size](https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png)
+<b>
+  
+# Lista de afazeres em React / Todo List
+
+</b>
 
 <i>
 
-# Lista de afazeres em React / Todo List
+
+
+## resultado:
+
+![image](https://github.com/DanielProgrammer64/TodoListReact/assets/103775773/59e87280-85f6-4dd5-a575-648451f9c796)
+
 
 ### desenvolvimento:
 
@@ -22,16 +31,22 @@
 
 ### comandos para a criação:
 
-
     npm create vite@latest nome-do-template  -- --template react
     cd nome-do-template
-    npm install 
+    npm install
 
-### inicialização --> 
+### inicialização:
 
     npm run dev
-    
+
+
 ### dicas:
 
-após ter feito o passo a passo os dados serão carregados dentro das pastas, se deseja criar um arquivo mais fácil de gerenciar, é recomendável que remova arquivos de imagem indesejados
-e scripts css que não serão usados...
+<strong>
+  
+se você deseja criar um projeto limpo e livre de problemas, além de ser mais fácil de gerenciar, você pode limpar as pastas e excluir arquivos indesejados...
+
+<strong>    
+
+
+![size](https://www.webrexstudio.com/wp-content/uploads/2019/05/react-js-image.png)
