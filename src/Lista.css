@@ -108,7 +108,7 @@
 
   .item:hover{
     background:#333449;
-    transition: 2s;
+    transition: 0.5s;
     color: #b4adad;
   }
 
