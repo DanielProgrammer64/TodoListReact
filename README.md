@@ -8,9 +8,16 @@
 
 
 
-## resultado:
+### resultado:
 
 ![image](https://github.com/DanielProgrammer64/TodoListReact/assets/103775773/59e87280-85f6-4dd5-a575-648451f9c796)
+
+### técnologias:
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ### desenvolvimento:
